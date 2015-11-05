@@ -12,7 +12,7 @@ task :generate do
 
 end
 
-task :test => [:generate]do
+task :test => [:generate] do
   HTML::Proofer.new("./_site", {:disable_external => true}).run
 end
 
