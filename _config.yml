@@ -1,0 +1,33 @@
+# Site settings
+title: MapNet
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Genetic and Genomic Variation in Plants, Animals, Humans and Microbes.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://mapnetnz.github.io" # the base hostname & protocol for your site
+twitter_username: mapnet
+github_username:  mapnetnz
+
+# Where things are
+source:       .
+destination:  ./_site
+plugins_dir:  ./_plugins
+layouts_dir:  ./_layouts
+data_dir:     ./_data
+includes_dir: ./_includes
+
+# Build settings
+markdown: kramdown
+exclude: ['CONTRIBUTING.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
+highlighter: pygments
+
+# markdown
+kramdown:
+  input: GFM
+
+## Collections
+collections:
+ profiles:
+   output: true
+ meetings:
+   output: true

@@ -1,0 +1,3 @@
+{% capture github %}{{include.username}}{% endcapture %}
+{% capture github_url %}https://github.com/{{github}}{% endcapture %}
+{% include external_link.html url=github_url display_text=github %}

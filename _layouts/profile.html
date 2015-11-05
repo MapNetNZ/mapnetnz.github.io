@@ -1,0 +1,32 @@
+---
+layout: base_default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.profile.fullname }}</h1>
+    <h4>{{ page.profile.affiliations | join: ', ' }}</h4>
+    <div><img src="{{ page.profile.avatar }}" /></div>
+    <ul>
+      <li>
+        <span>web</span>
+        <a target="_blank" href="{{ site.href }}">{{ site.hostname }}</a>
+      </li>
+
+      <li>
+        <span>email</span>
+        {% include email.html address=site.email %}
+      </li>
+
+      <li>
+        <span>github</span>
+        {% include github.html username=page.profile.github.username %}
+      </li>
+    </ul>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
