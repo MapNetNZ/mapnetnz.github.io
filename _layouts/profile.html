@@ -1,16 +1,17 @@
 ---
 layout: base_default
 ---
+{% capture fullname %}{{ page.profile.firstname }} {{ page.profile.lastname }}{% endcapture %}
 <div class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.profile.fullname }}</h1>
+    <h1 class="post-title">{{ fullname }}</h1>
     <h4>{{ page.profile.affiliations | join: ', ' }}</h4>
-    <div><img src="{{ page.profile.avatar }}" /></div>
+    <div>{% if page.profile.avatar %}<img src="{{ page.profile.avatar }}" alt="{{ page.profile.fullname }}"/>{% endif %}</div>
     <ul>
       <li>
         <span>web</span>
-        <a target="_blank" href="{{ site.href }}">{{ site.hostname }}</a>
+        <a target="_blank" href="{{ page.profile.url }}">{{ fullname }}</a>
       </li>
 
       <li>
