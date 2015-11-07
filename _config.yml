@@ -37,6 +37,7 @@ prose:
   siteurl: 'https://mapnetnz.github.io'
   ignore:
     - '/*'
+    - '!/_drafts'
     - '!/_meetings'
     - '!/_posts'
     - '!/_profiles'
