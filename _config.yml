@@ -36,7 +36,7 @@ collections:
 prose:
   ignore:
     - '*'
-    - !/_meetings/
-    - !/_posts/
-    - !/_profiles/
+    - !_meetings/
+    - !_posts/
+    - !_profiles/
     - !index.md
