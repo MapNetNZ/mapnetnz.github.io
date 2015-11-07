@@ -33,5 +33,9 @@ collections:
    output: true
 
 ## prose.io support
+## [ '/.bundle', '/_includes', '/_layouts', '/_sass', '/css', '/stylesheets', '.gitignore', '.travis.yml', '_config.yml', 'Gemfile', 'Rakefile' ]
 prose:
-  ignore: [ '/.bundle', '/_includes', '/_layouts', '/_sass', '/css', '/stylesheets', '.gitignore', '.travis.yml', '_config.yml', 'Gemfile', 'Rakefile' ]
+  ignore: 
+    - '/*'
+    - '!index.md'
+    - '!/_posts'
