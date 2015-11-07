@@ -31,3 +31,15 @@ collections:
    output: true
  meetings:
    output: true
+
+## prose.io support
+prose:
+  ignore:
+    - *
+    - !_meetings/
+    - !_meetings/*
+    - !_posts/
+    - !_posts/*
+    - !_profiles/
+    - !_profiles/*
+    - !index.md
