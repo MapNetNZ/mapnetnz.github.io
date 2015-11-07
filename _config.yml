@@ -43,3 +43,23 @@ prose:
     - '!/_profiles'
     - '!index.md'
     - '!README.md'
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "select"
+          label: "choose layout"
+          options:
+            - name: "Post"
+              value: "post"
+            - name: "Blog"
+              value: "blog"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+    _profiles:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "profile"
