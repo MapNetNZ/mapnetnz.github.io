@@ -7,5 +7,5 @@ profile:
   affiliations: ['University of Otago']
   github:
     username:
-  url:
+  url: http://www.otago.ac.nz/healthsciences/expertise/profile/?id=1593
 ---
