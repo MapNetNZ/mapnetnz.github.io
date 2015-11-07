@@ -34,9 +34,4 @@ collections:
 
 ## prose.io support
 prose:
-  ignore:
-    - '*'
-    - !_meetings/
-    - !_posts/
-    - !_profiles/
-    - !index.md
+  ignore: [ '/.bundle', '/_includes', '/_layouts', '/_sass', '/css', '/stylesheets', '.gitignore', '.travis.yml', '_config.yml', 'Gemfile', 'Rakefile' ]
