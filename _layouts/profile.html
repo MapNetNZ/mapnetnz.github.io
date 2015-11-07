@@ -8,6 +8,7 @@ layout: base_default
     <h1 class="post-title">{{ fullname }}</h1>
     <h4>{{ page.profile.affiliations | join: ', ' }}</h4>
     <div>{% if page.profile.avatar %}<img src="{{ page.profile.avatar }}" alt="{{ page.profile.fullname }}"/>{% endif %}</div>
+    <iframe src="http://githubbadge.appspot.com/{{page.profile.github.username}}" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
     <ul>
       <li>
         <span>web</span>
