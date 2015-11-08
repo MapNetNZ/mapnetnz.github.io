@@ -12,8 +12,9 @@ task :generate do
 
 end
 
-task :test => [:generate] do
-  HTML::Proofer.new("./_site", {:disable_external => true}).run
+task :travis => [:generate] do
+  HTML::Proofer.new("./_site", {:disable_external => false,
+                                :url_ignore => [/mapnetnz.github.io/]}).run
 end
 
 task :default => :generate
