@@ -1,0 +1,39 @@
+---
+
+layout: post
+
+---
+
+[right|i55px](image:MMW-PN.png "wikilink")
+
+## 2nd Molecular Mapping Workshop 2006
+
+**Palmerston North, New Zealand** 9th & 10th October 2006
+
+### Keynote speaker
+
+Grant Montgomery, Queensland Institute of Medical Research.
+
+### Conference venue
+
+Pamerston North
+
+### Program
+
+[Programme and abstracts booklet (doc).](Media:Molecular_Mapping_Workshop_BOOKLET_2006_v1.doc "wikilink"))
+
+### Organising committee
+
+David Chagné, HortResearch (Chair)
+
+Emily Buck, HortResearch
+Brent Barrett, AgResearch Grasslands
+Andrew Griffiths, AgResearch Grasslands
+Marty Faville, AgResearch Grasslands
+Phillip Wilcox, Scion (MapNet Coordinator)
+
+### Links:
+
+-   [MapNet 2005](Molecular Mapping Workshop 2005 "wikilink")
+-   [MapNet 2007](Molecular Mapping Workshop 2007 "wikilink")
+
