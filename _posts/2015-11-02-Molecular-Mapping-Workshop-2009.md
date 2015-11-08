@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1442
+title: Molecular Mapping Workshop 2009
 ---
-
 ![](MMW5.jpg "MMW5.jpg")
 
 ## 5th Molecular Mapping Workshop 2009

@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1496
+title: Molecular Mapping Workshop 2015
 ---
-
 ![](MMW3.jpg "MMW3.jpg")
 
 ## MapNet Conference 2015

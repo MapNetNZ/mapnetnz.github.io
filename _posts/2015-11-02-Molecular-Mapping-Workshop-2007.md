@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1423
+title: Molecular Mapping Workshop 2007
 ---
-
 ![](MMW3.jpg "MMW3.jpg")
 
 ## 3rd Molecular Mapping Workshop 2007

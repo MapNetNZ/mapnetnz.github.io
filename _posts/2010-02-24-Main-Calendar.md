@@ -1,9 +1,9 @@
 ---
-
+author: D Simon
 layout: post
-
+page_id: 1289
+title: Main Calendar
 ---
-
 Please use the calendar to add events by clicking on the day of the event and adding the details. The **bold** date is today; <font color="#002bb8">blue</font> dates indicate already-created entries, <font color="#ba0000">red</font> dates are empty.
 
 [Click here](Help:Calendar "wikilink") for help on the calendar.

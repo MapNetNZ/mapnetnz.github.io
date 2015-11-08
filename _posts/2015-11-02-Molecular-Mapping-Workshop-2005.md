@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1500
+title: Molecular Mapping Workshop 2005
 ---
-
 ![](MMW1.jpg "MMW1.jpg")
 
 ## MapNet Conference 2005

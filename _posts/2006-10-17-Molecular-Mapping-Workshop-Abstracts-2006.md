@@ -1,9 +1,9 @@
 ---
-
+author: John Micthell
 layout: post
-
+page_id: 1350
+title: Molecular Mapping Workshop Abstracts 2006
 ---
-
 All abstracts from the [2nd Molecular Mapping Workshop](2006/10/9 "wikilink") held in Palmerston North on October 9-10 are available here. \_\_TOC\_\_
 
 ### Keynote: Mapping complex disease traits in human

@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1455
+title: Molecular Mapping Workshop 2009 Presentations
 ---
-
 **[ Molecular Mapping Workshop 2009 Main Page](Molecular Mapping Workshop 2009 "wikilink")**
 
 Presentations from the 2009 Molecular Mapping Workshop that have been made available can be downloaded from here. Titles without links are unavailable.

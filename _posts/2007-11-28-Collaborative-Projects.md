@@ -1,9 +1,9 @@
 ---
-
+author: Emily Telfer
 layout: post
-
+page_id: 1432
+title: Collaborative Projects
 ---
-
 # VISG Bid
 
 ### Overview

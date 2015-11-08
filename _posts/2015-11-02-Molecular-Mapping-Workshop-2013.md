@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1492
+title: Molecular Mapping Workshop 2013
 ---
-
 Full details are available [here](http://scienceevents.co.nz/mapnet2013/).
 
 ![](MMW1.jpg "MMW1.jpg")

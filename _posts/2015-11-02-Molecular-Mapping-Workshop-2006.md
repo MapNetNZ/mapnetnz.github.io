@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1502
+title: Molecular Mapping Workshop 2006
 ---
-
 [right|i55px](image:MMW-PN.png "wikilink")
 
 ## 2nd Molecular Mapping Workshop 2006

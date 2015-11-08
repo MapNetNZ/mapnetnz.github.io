@@ -1,9 +1,9 @@
 ---
-
+author: Rudiger Brauning
 layout: post
-
+page_id: 1488
+title: Molecular Mapping Workshop 2014 Prelim
 ---
-
 ![](MMW5.jpg "MMW5.jpg")
 
 ## MapNet Conference 2014

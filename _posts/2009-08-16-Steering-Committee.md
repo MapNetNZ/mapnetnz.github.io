@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1431
+title: Steering Committee
 ---
-
 ## Steering Committee
 
 ### What does the MapNet Steering Committee do?

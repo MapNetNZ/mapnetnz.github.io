@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1498
+title: Molecular Mapping Workshop 2011
 ---
-
 ## MapNet Conference 2011
 
 <span style="color:#FF0000">`7th annual New Zealand Molecular Mapping (MapNet) workshop `</span>`  `

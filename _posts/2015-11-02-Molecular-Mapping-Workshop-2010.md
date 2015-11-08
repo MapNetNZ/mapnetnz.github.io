@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1483
+title: Molecular Mapping Workshop 2010
 ---
-
 [thumb](image:MapNetlogo Simon Hayes, Plant & Food.jpg "wikilink")
 
 ## 6th Molecular Mapping Workshop 2010

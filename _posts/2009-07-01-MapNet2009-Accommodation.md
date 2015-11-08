@@ -1,9 +1,9 @@
 ---
-
+author: Ken Dodds
 layout: post
-
+page_id: 1446
+title: MapNet2009 Accommodation
 ---
-
 Accommodation options (own arrangements):
 
 All rates quoted include GST. Special rates have been arranged for 2 Dunedin options.

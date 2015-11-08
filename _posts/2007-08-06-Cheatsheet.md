@@ -1,9 +1,9 @@
 ---
-
+author: D Simon
 layout: post
-
+page_id: 1413
+title: Cheatsheet
 ---
-
 Page designed as a cheatsheet/quick reference for Wiki formatting. Feel free to add examples as you see fit.
 
 \_\_TOC\_\_
