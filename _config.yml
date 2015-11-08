@@ -45,6 +45,10 @@ prose:
     - '!README.md'
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "layout"
         field:
           element: "select"
@@ -54,10 +58,6 @@ prose:
               value: "post"
             - name: "Blog"
               value: "blog"
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
     _profiles:
       - name: "layout"
         field:
