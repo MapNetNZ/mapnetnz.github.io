@@ -74,8 +74,8 @@ Once the environment is configured, jekyll building and html-proofer testing can
 ## the generate target builds the site
 bundle exec rake generate
 
-## the test target uses html-proofer to check for errors
-bundle exec rake test
+## the travis target uses html-proofer to check for errors
+bundle exec rake travis
 ```
 
 Visual checking of the site can be done using:
