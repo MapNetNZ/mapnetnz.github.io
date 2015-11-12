@@ -1,13 +1,9 @@
 ---
-author: John Micthell
+author: John Mitchell
 layout: post
 page_id: 1347
-title: 2006/10/9
+title: 2nd New Zealand Molecular Mapping Workshop
 ---
-\_\_NOTOC\_\_ \_\_NOEDITSECTION\_\_
-
-# 2nd New Zealand Molecular Mapping Workshop
-
 **Palmerston North, New Zealand. 9th – 10th October 2006**
 
 ## Conference aim and scope
@@ -20,13 +16,12 @@ The meeting will also be the occasion for setting up a network between the resea
 
 ## Conference website
 
-<http://www.crop.cri.nz/home/conferences/mol-mapping-2006/index.jsp>
+* [Crop & Food](http://www.crop.cri.nz/home/conferences/mol-mapping-2006/index.jsp "dead link")
 
 ## Conference Booklet
 
-[Media:Molecular Mapping Workshop BOOKLET 2006 v1.doc](Media:Molecular Mapping Workshop BOOKLET 2006 v1.doc "wikilink")
+[Molecular Mapping Workshop BOOKLET 2006 v1.doc](/assets/2006/Molecular_Mapping_Workshop_BOOKLET_2006_v1.doc "wikilink")
 
 ## Accepted abstracts
 
-[Molecular Mapping Workshop Abstracts 2006](Molecular_Mapping_Workshop_Abstracts_2006 "wikilink")
-
+[Molecular Mapping Workshop Abstracts 2006](/2006/10/17/Molecular-Mapping-Workshop-Abstracts-2006.html "wikilink")
