@@ -16,6 +16,9 @@ layouts_dir:  ./_layouts
 data_dir:     ./_data
 includes_dir: ./_includes
 
+sass:
+  sass_dir: _sass
+
 # Build settings
 markdown: kramdown
 exclude: ['CONTRIBUTING.md', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'vendor']
