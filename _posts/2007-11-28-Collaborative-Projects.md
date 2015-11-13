@@ -23,7 +23,7 @@ Specific areas defined by MapNet geneticists include: 1. Analytical methods for 
 
 ### Supplemental Material
 
-[Bid Document](Media:VISG_bid.doc "wikilink")
+[Bid Document](/assets/content/VISG_bid.doc "wikilink")
 
 # Association Genetics Bid
 
@@ -48,5 +48,5 @@ This proposal focuses on developing an online collaborative environment portal f
 
 ### Supplemental Material
 
-[KAREN Capability Fund](http://www.karen.net.nz/capability-build-fund/)
-
+* KAREN Capability Fund
+<!-- [KAREN Capability Fund](http://www.karen.net.nz/capability-build-fund/ "dead-link") -->

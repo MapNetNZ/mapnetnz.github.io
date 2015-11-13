@@ -16,12 +16,13 @@ The meeting will also be the occasion for setting up a network between the resea
 
 ## Conference website
 
-* [Crop & Food](http://www.crop.cri.nz/home/conferences/mol-mapping-2006/index.jsp "dead link")
+* [Crop & Food](http://www.plantandfood.co.nz)
+  <!-- http://www.crop.cri.nz/home/conferences/mol-mapping-2006/index.jsp "dead link" -->
 
 ## Conference Booklet
 
-[Molecular Mapping Workshop BOOKLET 2006 v1.doc](/assets/2006/Molecular_Mapping_Workshop_BOOKLET_2006_v1.doc "wikilink")
+[Molecular Mapping Workshop BOOKLET 2006 v1.doc](/assets/2006/Molecular_Mapping_Workshop_BOOKLET_2006_v1.pdf "wikilink")
 
 ## Accepted abstracts
 
-[Molecular Mapping Workshop Abstracts 2006](/2006/10/17/Molecular-Mapping-Workshop-Abstracts-2006.html "wikilink")
+[Molecular Mapping Workshop Abstracts 2006]({% post_url Molecular-Mapping-Workshop-Abstracts-2006 %} "wikilink")
