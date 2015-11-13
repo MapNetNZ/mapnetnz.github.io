@@ -20,7 +20,7 @@ Pamerston North
 
 ### Program
 
-[Programme and abstracts booklet (doc).](Media:Molecular_Mapping_Workshop_BOOKLET_2006_v1.doc "wikilink"))
+[Programme and abstracts booklet (doc).](/assets/content/2006/Molecular_Mapping_Workshop_BOOKLET_2006_v1.pdf "wikilink"))
 
 ### Organising committee
 
@@ -36,4 +36,3 @@ Phillip Wilcox, Scion (MapNet Coordinator)
 
 -   [MapNet 2005](Molecular Mapping Workshop 2005 "wikilink")
 -   [MapNet 2007](Molecular Mapping Workshop 2007 "wikilink")
-
