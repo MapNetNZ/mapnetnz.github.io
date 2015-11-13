@@ -1,0 +1,13 @@
+---
+---
+
+@import "bootstrap/variables";
+@import "bootstrap/mixins";
+@import "bootstrap/grid";
+@import "cayman-theme/github-light";
+@import "cayman-theme/cayman-theme";
+
+.half-rule {
+  width: 100px;
+  margin: 40px auto;
+}

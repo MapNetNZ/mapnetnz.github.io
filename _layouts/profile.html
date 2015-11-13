@@ -8,7 +8,7 @@ layout: base_default
     <div style="float: right"><iframe src="//githubbadge.appspot.com/{{page.profile.github.username}}" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe></div>
     <h1 class="post-title">{{ fullname }}</h1>
     <h4>{{ page.profile.affiliations | join: ', ' }}</h4>
-    <div>{% if page.profile.avatar %}<img src="{{ page.profile.avatar }}" alt="{{ page.profile.fullname }}"/>{% endif %}</div>
+    <div>{% if page.profile.avatar %}<img src="{{ page.profile.avatar }}" alt="{{ fullname }}"/>{% endif %}</div>
 
     <ul>
       <li>
@@ -31,5 +31,15 @@ layout: base_default
   <article class="post-content">
     {{ content }}
   </article>
-
+  {% if page.profile.publications %}
+  <h2>Publications</h2>
+  <ul>
+  {% for pub in page.profile.publications %}
+    <li>
+      {{ pub.authors | join: ', ' }} ({{ pub.date }}). {{ pub.title }}. <i>{{ pub.journal}}, {{ pub.volume }}, {{ pub.page }}</i>.
+      <a href="http://dx.doi.org/{{ pub.doi }}">{{ pub.doi }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+  {% endif %}
 </div>
