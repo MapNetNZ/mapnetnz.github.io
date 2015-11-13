@@ -2,7 +2,9 @@
 author: Ken Dodds
 layout: post
 page_id: 1483
-title: Molecular Mapping Workshop 2010
+title: "Molecular Mapping Workshop 2010"
+date: 2010-09-02
+location: "Rydges, Queenstown"
 ---
 [thumb](image:MapNetlogo Simon Hayes, Plant & Food.jpg "wikilink")
 
@@ -59,4 +61,3 @@ Don't forget. We are planning a POSTER Session on Thursday night!! Even if you a
 
 -   [MapNet 2009](Molecular Mapping Workshop 2009 "wikilink")
 -   [MapNet 2011](Molecular Mapping Workshop 2011 "wikilink")
-

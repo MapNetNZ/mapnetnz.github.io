@@ -3,8 +3,10 @@ author: Ken Dodds
 layout: post
 page_id: 1489
 title: Molecular Mapping Workshop 2014
+date: 2014-10-21
+location: "AgResearch, Invermay"
 ---
-![](MMW5.jpg "MMW5.jpg")
+![](/assets/img/MMW5.jpg)
 
 ## MapNet Conference 2014
 
@@ -74,4 +76,3 @@ AgResearch
 
 -   [MapNet 2013](Molecular Mapping Workshop 2013 "wikilink")
 -   [MapNet 2015](Molecular Mapping Workshop 2015 "wikilink")
-

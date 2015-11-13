@@ -2,9 +2,11 @@
 author: Ken Dodds
 layout: post
 page_id: 1496
-title: Molecular Mapping Workshop 2015
+title: "Molecular Mapping Workshop 2015"
+date: 2015-10-28
+location: "Scion Research, Rotorua"
 ---
-![](MMW3.jpg "MMW3.jpg")
+![](/assets/img/MMW3.jpg)
 
 ## MapNet Conference 2015
 
@@ -37,4 +39,3 @@ Other Scion and LIC staff
 ## Links
 
 -   [MapNet 2014](Molecular Mapping Workshop 2014 "wikilink")
-

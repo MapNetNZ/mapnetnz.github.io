@@ -2,9 +2,11 @@
 author: Ken Dodds
 layout: post
 page_id: 1436
-title: Molecular Mapping Workshop 2008
+title: "Molecular Mapping Workshop 2008"
+date: 2008-12-08
+location: "University of Auckland"
 ---
-![](MMW3.jpg "MMW3.jpg")
+![](/assets/img/MMW3.jpg)
 
 ## 4th Molecular Mapping Workshop 2008
 
@@ -46,7 +48,7 @@ Registration due **Friday 31st of October**. Register online at <https://www.sta
 
 We will be running a one-day format, to fit in with the Summer Institute of Statistical Genetics (see below). We will start early on Monday morning, and finish the day with dinner at a nearby restaurant (the dinner plan is Turkish cuisine at <http://www.cafemidnightexpress.co.nz/>).
 
-The full programme is now available: [Abstract book (pdf)](Media:NZMol_Mapping_workshop_2008_Programme-Abstracts_final.pdf "wikilink"). Copies of this document will be given to participants at the meeting, however you may wish to print information such as directions from this document prior to the meeting.
+The full programme is now available: [Abstract book (pdf)](/assets/content/2008/NZMol_Mapping_workshop_2008_Programme-Abstracts_final.pdf). Copies of this document will be given to participants at the meeting, however you may wish to print information such as directions from this document prior to the meeting.
 
 ### Summer Institute of Statistical Genetics
 
@@ -64,11 +66,11 @@ Phillip Wilcox, Scion (MapNet Coordinator)
 
 ### Sponsors
 
-![The University of Auckland](University_of_Auckland_logo.jpg "The University of Auckland")
+![The University of Auckland](/assets/img/University_of_Auckland_logo.jpg "The University of Auckland")
 
-![Agmardt](AGMARDTlogoRGB.jpg "Agmardt")
+![Agmardt](/assets/img/AGMARDTlogoRGB.jpg "Agmardt")
 
-![ViaLactia](VLB-logo.jpg "ViaLactia")
+![ViaLactia](/assets/img/VLB-logo.jpg "ViaLactia")
 
 HortResearch
 
@@ -84,4 +86,3 @@ E-mail: [Sharon Browning](mailto:s.browning@auckland.ac.nz)
 
 -   [MapNet 2007](Molecular Mapping Workshop 2007 "wikilink")
 -   [MapNet 2009](Molecular Mapping Workshop 2009 "wikilink")
-

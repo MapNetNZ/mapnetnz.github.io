@@ -3,10 +3,12 @@ author: Ken Dodds
 layout: post
 page_id: 1492
 title: Molecular Mapping Workshop 2013
+date: 2013-10-07
+location: "Plant & Food Research, Lincoln"
 ---
 Full details are available [here](http://scienceevents.co.nz/mapnet2013/).
 
-![](MMW1.jpg "MMW1.jpg")
+![](/assets/img/MMW1.jpg)
 
 ## MapNet Conference 2013
 
@@ -23,4 +25,3 @@ Programme: [Programme(pdf)](Media:MapNet2013_programme.pdf "wikilink").
 
 -   [MapNet 2011](Molecular Mapping Workshop 2011 "wikilink")
 -   [MapNet 2014](Molecular Mapping Workshop 2014 "wikilink")
-

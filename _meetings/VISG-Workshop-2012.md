@@ -3,6 +3,8 @@ author: Ken Dodds
 layout: post
 page_id: 1503
 title: VISG Workshop 2012
+date: 2012-10-23
+location: "University of Otago, Dunedin"
 ---
 ## New Zealand Virtual Institute of Statistical Genomics (VISG) Workshop 2012
 

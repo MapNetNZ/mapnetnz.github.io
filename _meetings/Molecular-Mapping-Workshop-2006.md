@@ -2,9 +2,12 @@
 author: Ken Dodds
 layout: post
 page_id: 1502
-title: Molecular Mapping Workshop 2006
+title: "Molecular Mapping Workshop 2006"
+date: 2006-10-09
+location: "HortResearch, Palmerston North"
 ---
-[right|i55px](image:MMW-PN.png "wikilink")
+
+![north palmerston](/assets/img/MMW-PN.png)
 
 ## 2nd Molecular Mapping Workshop 2006
 

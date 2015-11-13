@@ -2,9 +2,11 @@
 author: Ken Dodds
 layout: post
 page_id: 1423
-title: Molecular Mapping Workshop 2007
+title: "Molecular Mapping Workshop 2007"
+date: 2007-11-09
+location: "LIC, Hamilton"
 ---
-![](MMW3.jpg "MMW3.jpg")
+![](/assets/img/MMW3.jpg)
 
 ## 3rd Molecular Mapping Workshop 2007
 
@@ -88,4 +90,3 @@ E-mail: [Kath McBride](mailto:Katherine.McBride@scionresearch.com)
 
 -   [MapNet 2006](Molecular Mapping Workshop 2006 "wikilink")
 -   [MapNet 2008](Molecular Mapping Workshop 2008 "wikilink")
-

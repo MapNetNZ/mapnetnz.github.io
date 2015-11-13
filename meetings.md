@@ -3,7 +3,7 @@ project:
   name: Meetings
 layout: page
 ---
-{% assign sortedmeetings = site.meetings | reverse %}
+{% assign sortedmeetings = site.meetings | sort: 'date' | reverse %}
 
 <div class="container">
   <h2>Current Meeting</h2>

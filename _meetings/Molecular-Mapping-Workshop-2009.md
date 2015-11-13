@@ -3,8 +3,10 @@ author: Ken Dodds
 layout: post
 page_id: 1442
 title: Molecular Mapping Workshop 2009
+date: 2009-08-27
+location: AgResearch, Invermay
 ---
-![](MMW5.jpg "MMW5.jpg")
+![](/assets/img/MMW5.jpg)
 
 ## 5th Molecular Mapping Workshop 2009
 
@@ -24,7 +26,7 @@ USA
 
 *Association Breeding Strategies for Crop Improvement*
 
-See [Mark Sorrells](http://plbrgen.cals.cornell.edu/cals/pbg/people/faculty.cfm?netId=mes12) and [Cornell Small Grains Project](http://smallgrains.cit.cornell.edu/)
+See [Mark Sorrells](http://plbrgen.cals.cornell.edu/cals/pbg/people/faculty.cfm?netId=mes12) and [Cornell Small Grains Project](http://plbrgen.cals.cornell.edu/research-extension/small-grains)
 
 ## Conference venue
 
@@ -36,7 +38,7 @@ Mosgiel
 Otago
 New Zealand
 See <http://www.agresearch.co.nz/about/campus.asp> (click on 'Invermay')
-[ Campus Map ](Media:InvermayCampusMap.jpg "wikilink")
+[ Campus Map ](/assets/img/InvermayCampusMap.jpg "wikilink")
 [<http://maps.google.com/maps/ms?hl=en&geocode>=&ie=UTF8&msa=0&msid=107468587071154198449.0004395b63f4e055918e4&ll=-45.858396,170.38722&spn=0.043875,0.079823&z=14&om=1 Google Map]
 
 ## Accommodation and transportation
@@ -116,4 +118,3 @@ E-mail: [Rachel Baker](mailto:rachel.baker@agresearch.co.nz)
 
 -   [MapNet 2008](Molecular Mapping Workshop 2008 "wikilink")
 -   [MapNet 2010](Molecular Mapping Workshop 2010 "wikilink")
-

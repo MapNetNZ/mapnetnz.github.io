@@ -3,6 +3,8 @@ author: Ken Dodds
 layout: post
 page_id: 1498
 title: Molecular Mapping Workshop 2011
+date: 2011-10-27
+location: "Plant & Food Research, Hawkes Bay"
 ---
 ## MapNet Conference 2011
 
@@ -14,4 +16,3 @@ title: Molecular Mapping Workshop 2011
 
 -   [MapNet 2010](Molecular Mapping Workshop 2010 "wikilink")
 -   [MapNet 2013](Molecular Mapping Workshop 2013 "wikilink")
-
