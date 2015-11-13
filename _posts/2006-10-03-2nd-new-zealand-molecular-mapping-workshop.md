@@ -21,8 +21,8 @@ The meeting will also be the occasion for setting up a network between the resea
 
 ## Conference Booklet
 
-[Molecular Mapping Workshop BOOKLET 2006 v1.doc](/assets/2006/Molecular_Mapping_Workshop_BOOKLET_2006_v1.pdf "wikilink")
+[Molecular Mapping Workshop BOOKLET 2006 v1.doc](/assets/content/2006/Molecular_Mapping_Workshop_BOOKLET_2006_v1.pdf "wikilink")
 
 ## Accepted abstracts
 
-[Molecular Mapping Workshop Abstracts 2006]({% post_url Molecular-Mapping-Workshop-Abstracts-2006 %} "wikilink")
+[Molecular Mapping Workshop Abstracts 2006]({% post_url 2006-10-17-Molecular-Mapping-Workshop-Abstracts-2006 %} "wikilink")

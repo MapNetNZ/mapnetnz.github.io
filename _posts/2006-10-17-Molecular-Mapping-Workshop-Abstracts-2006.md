@@ -4,7 +4,7 @@ layout: post
 page_id: 1350
 title: Molecular Mapping Workshop Abstracts 2006
 ---
-All abstracts from the [2nd Molecular Mapping Workshop](2006/10/03/2nd-new-zealand-molecular-mapping-workshop.html) held in Palmerston North on October 9-10 are available here.
+All abstracts from the [2nd Molecular Mapping Workshop]({% post_url 2006-10-03-2nd-new-zealand-molecular-mapping-workshop %}) held in Palmerston North on October 9-10 are available here.
 
 ### Keynote: Mapping complex disease traits in human
 
