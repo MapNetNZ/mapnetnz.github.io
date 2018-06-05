@@ -194,5 +194,6 @@ defaults:
     values:
       author_profile: true
       layout: single
-      header:
-          image: "/assets/mapnet.jpg"
+      author: "MapNet 2018"
+      # header:
+      #     image: "/assets/mapnet.jpg"
