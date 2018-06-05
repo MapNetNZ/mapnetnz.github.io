@@ -193,3 +193,5 @@ defaults:
       type: pages
     values:
       layout: single
+      header:
+          image: "/assets/mapnet.jpg"
