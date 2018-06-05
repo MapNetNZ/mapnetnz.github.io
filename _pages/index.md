@@ -3,7 +3,7 @@ permalink: /
 Title: "MapNet 2018"
 ---
 
-## Welcome to the 2017 MapNet conference
+#### Welcome to the 2017 MapNet conference
 
 Dear colleagues and friends,
 
