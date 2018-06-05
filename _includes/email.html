@@ -1,5 +1,0 @@
-{% capture rep1 %}{{include.address | replace: '@', ' ~at~ '}}{% endcapture %}
-{% capture rep2 %}{{rep1 | replace: '.', ' ~dot~ '}}{% endcapture %}
-{% capture spam %}{{rep2}}{% endcapture %}
-{% capture url %}mailto:{{include.address}}{% endcapture %}
-{% include external_link.html url=url display_text=spam %}
