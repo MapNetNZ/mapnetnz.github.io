@@ -6,8 +6,8 @@ locale: "en-NZ"
 title_separator: "-"
 title: "MapNet 2018"
 description: "MapNet workshop 2018, Dunedin"
-url                      : "http://tomharrop.io/mapnetnz.github.io"
-repository               : "TomHarrop/mapnetnz.github.io"
+#url                      : "http://tomharrop.io/mapnetnz.github.io"
+#repository               : "TomHarrop/mapnetnz.github.io"
 teaser                   : "/assets/mapnet.jpg"
 words_per_minute         : 200
 search                   : true
