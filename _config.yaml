@@ -1,15 +1,14 @@
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "dirt"
 
 # Site settings
 locale: "en-NZ"
 title_separator: "-"
 title: "MapNet 2018"
 description: "MapNet workshop 2018, Dunedin"
-
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://tomharrop.io"
+baseurl                  : "/mapnetnz.github.io/"
+repository               : "TomHarrop/mapnetnz.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
