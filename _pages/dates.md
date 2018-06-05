@@ -1,4 +1,5 @@
 ---
+title: "Key dates"
 permalink: /dates/
 ---
 

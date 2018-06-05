@@ -1,4 +1,5 @@
 ---
+title: "Accommodation"
 permalink: /accom/
 ---
 

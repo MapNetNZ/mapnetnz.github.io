@@ -11,8 +11,6 @@ baseurl                  : "/mapnetnz.github.io"
 repository               : "TomHarrop/mapnetnz.github.io"
 teaser                   : "/assets/mapnet.jpg"
 words_per_minute         : 200
-search                   : true
-search_provider          : lunr
 
 # Social Sharing
 twitter:
@@ -34,7 +32,7 @@ author:
   name             : "MapNet 2018"
   avatar           : "/assets/mapnet.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "University of Otago, Dunedin"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -195,5 +193,6 @@ defaults:
       author_profile: true
       layout: single
       author: "MapNet 2018"
+
       # header:
       #     image: "/assets/mapnet.jpg"
