@@ -1,3 +1,11 @@
 main:
-  - title: "Registration"
-    url: /register/
+    - title: "Program"
+      url: /program/
+    - title: "Registration"
+      url: /register/
+    - title: "Key dates"
+      url: /dates/
+    - title: "Accommodation"
+      url: /accom/
+    - title: "Code of conduct"
+      url: /conduct/
