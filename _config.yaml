@@ -192,6 +192,7 @@ defaults:
       path: ""
       type: pages
     values:
+      author_profile: true
       layout: single
       header:
           image: "/assets/mapnet.jpg"
