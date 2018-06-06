@@ -9,3 +9,5 @@ main:
       url: /accom/
     - title: "Code of conduct"
       url: /conduct/
+    - title: "Contact"
+      url: /contact/

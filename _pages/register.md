@@ -3,4 +3,4 @@ title: "Registration"
 permalink: /register/
 ---
 
-Yiss, do register
+*Registration link served by Uni Otago*

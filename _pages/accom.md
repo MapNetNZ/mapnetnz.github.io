@@ -3,4 +3,4 @@ title: "Accommodation"
 permalink: /accom/
 ---
 
-No accommodation yet
+No accommodation links yet.
