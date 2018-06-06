@@ -1,13 +1,15 @@
 ---
 permalink: /
-Title: "MapNet 2018"
+Title: "Welcome to the 2018 MapNet workshop"
 ---
 
-## Welcome to the 2018 MapNet workshop
+<span></span>
 
-**MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago from November 20–21.**
+# Welcome to the 2018 MapNet workshop
 
-[Click here to register](/mapnetnz.github.io/register/).
+MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago from November 20–21.
+
+**[Click here to register](/mapnetnz.github.io/register/)**.
 
 *[Stuff about Dunedin and MapNet 2018 themes]*
 
