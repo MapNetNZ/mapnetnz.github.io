@@ -3,8 +3,6 @@ permalink: /
 Title: "MapNet 2018"
 ---
 
-<span></span>
-
 ## Welcome to the 2018 MapNet workshop
 
 **MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago from November 20–21.**
