@@ -3,4 +3,4 @@ title: "Code of conduct"
 permalink: /conduct/
 ---
 
-No conduct yet
+** Develop and add a code of conduct, like [this one](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)**

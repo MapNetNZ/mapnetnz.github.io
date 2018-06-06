@@ -3,21 +3,27 @@ permalink: /
 Title: "MapNet 2018"
 ---
 
-#### Welcome to the 2017 MapNet conference
+#### Welcome to the 2018 MapNet workshop
 
-Dear colleagues and friends,
+**MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago from November 20–21.**
 
-Welcome to the MapNet 2017 conference, which will be held in Palmerston North, New Zealand at the IPU New Zealand Tertiary Institute from 2nd – 3rd November.
+[Click here to register](/mapnetnz.github.io/register/).
 
-MapNet is running under an aegis of New Zealand-based molecular and quantitative geneticists from organisations involved in genomics related research. Organisations represented include Plant and Food Research, University of Otago, AgResearch, Scion (NZ Forest Research Ltd), Environmental Sciences Research Ltd, Livestock Improvement Corporation, Massey University, University of Auckland, University of Canterbury, and Landcare Research Ltd. These organisations encompass New Zealand’s health and primary production sectors, as well as conservation genetics. A key driver for MapNet is to co-ordinate scientists from different organisation using common technologies and analytical platforms, to foster the development of multidisciplinary and cross-sector research projects, and to facilitate knowledge exchange between researchers.
+*[Stuff about Dunedin and MapNet 2018 themes]*
 
-This year’s conference will be held in Palmerston North, the heart of a large vibrant academic and industrial scientific community.  MapNet 2017 will focus on diverse and emerging themes; pre-commercial, cross-sector, genomics and mapping technologies in a range of organisms valuable to NZ's economy, ecology and culture.  
+*[Note about the GBS workshop]*
 
-“A Bioinformatics / Computational Science Workshop is hosted by the Massey University and organised by the Palmerston North Bioinformatics Meeting crew, a day before MapNet, which explores the current state of practice in scientific computing. For registration and details for this workshop please follow the link in Key dates.”
+*[Link to the ~inaugural~ annual GA symposium]*
 
-Registrations for MapNet 2017 are now open.
+MapNet is a group of New Zealand-based molecular and quantitative geneticists from organisations involved in research related to genomics. Organisations represented include Universities (Auckland, Canterbury, Massey, Otago, Unitec, Victoria), CRIs (AgResearch, Environmental Science and Research, Landcare Research, NIWA, Plant & Food Research, Scion) and private entities (AbacusBio, The Elshire Group, Livestock Improvement Corporation). They encompass New Zealand's health, primary production, and conservation genetics sectors. MapNet aims to coordinate scientists from different organisations using common technologies and analytical platforms, to foster the development of multidisciplinary and cross-sector research projects, and to facilitate knowledge exchange between researchers.
 
-Looking forward to see you in Palmerston North,
+We look forward to seeing you there.
 
-Organizing committee
-Mareike Knaebel, Jibran Tahir , Jeanne Jacobs , Marty Faville, Phil Wilcox
+The organising committee
+- Shannon Clark
+- Rob Elshire
+- Tony Merriman
+- Wenhua Wei
+- Phil Wilcox
+- Tom Harrop
+- Andrew Hess

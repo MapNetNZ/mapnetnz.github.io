@@ -2,4 +2,9 @@
 permalink: /program/
 ---
 
-No program yet
+The program for MapNet 2018 has not been finalised. Sesson topics will include the following:
+    - Methodology advances in statistical genetics
+    - Epigenetics 
+    - Primary sector empirical
+    - Ecosystem genomics
+    - Indigenous health, archaeological genetics (in conjunction with the annual Genomics Aotearoa symposium)
