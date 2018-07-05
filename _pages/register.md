@@ -9,10 +9,9 @@ header:
 
 # Registration
 
-- The registration fee for MapNet 2018 is $**xyz**. 
+- **Registration opening soon.**
+- Registration for MapNet 2018 is $**xyz**.
 - Registrations close on 6 November, 2018.
-- Please click here to register.
-    + *Registration link served by Otago Uni*
 
 ## Abstracts
 

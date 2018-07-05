@@ -20,7 +20,11 @@ MapNet will be held in St. David's lecture theatre at the University of Otago.
 
 ## Travel
 
-*Link to some shuttle companies from the airport*
+Dunedin airport (DUD) is about 30 km out of town. Taxis from the airport cost $80+ and take half an hour or so. There are also shared shuttle services which can drop you in the centre of town or at your accommodation for about $18–25, and take around an hour. We recommend booking a seat in the shuttle in advance.
+
+- [Airport Shuttles Dunedin](https://www.airportshuttlesdunedin.co.nz/){:target="_blank",rel="noopener"} (<i class="fa fa-phone"></i> 0800 477 800)
+- [Kiwi Shuttles](http://www.kiwishuttles.co.nz/){:target="_blank",rel="noopener"} (<i class="fa fa-phone"></i> 0800 365 494)
+- [supershuttle](https://www.supershuttle.co.nz/){:target="_blank",rel="noopener"} (<i class="fa fa-phone"></i> 0800 748 885)
 
 ## Accommodation
 

@@ -6,9 +6,9 @@ permalink: /program/
 
 # Program
 
-A detailed program will be released closer to the date.
+We'll update this page with a detailed program closer to the meeting.
 
-Sesson topics will include:
+Sesson topics include:
 - Methodology advances in statistical genetics
 - Epigenetics 
 - Primary sector empirical
