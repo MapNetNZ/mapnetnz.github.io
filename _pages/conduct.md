@@ -48,13 +48,14 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## MapNet organisers
 
-- Shannon Clark
-- Rob Elshire
-- Tony Merriman
-- Wenhua Wei
-- Phil Wilcox
-- Tom Harrop
-- Andrew Hess
+- [Shannon Clark](mailto:Shannon.Clarke@agresearch.co.nz)
+- [Rob Elshire](mailto:Rob@elshiregroup.co.nz)
+- [Tony Merriman](mailto:tony.merriman@otago.ac.nz)
+- [Wenhua Wei](mailto:wenhua.wei@otago.ac.nz)
+- [Phil Wilcox](mailto:phillip.wilcox@otago.ac.nz)
+- [Angela Hendry](mailto:angela.hendry@otago.ac.nz)
+- [Tom Harrop](mailto:tom.harrop@otago.ac.nz)
+- [Andrew Hess](mailto:andrew.hess@agresearch.co.nz)
 
 **NOTE**: Phone numbers will be added to the code of conduct for the conference.
 

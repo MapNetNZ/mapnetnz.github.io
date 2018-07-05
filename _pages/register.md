@@ -12,6 +12,7 @@ header:
 - **Registration opening soon.**
 - Registration for MapNet 2018 is $**xyz**.
 - Registrations close on 6 November, 2018.
+- MapNet participants are subject to a [code of conduct](/mapnetnz.github.io/conduct/). Please make sure you have read the code of conduct before registering.
 
 ## Abstracts
 
