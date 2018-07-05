@@ -13,9 +13,9 @@ All attendees, speakers, sponsors and volunteers are required to agree to this c
 We do not tolerate harassment of MapNet participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, social events, Twitter and other online media.
 
 Participants engaging in harassing behaviour may be sanctioned in any way organisers deem appropriate. This includes:
-- a warning to stop the behaviour followed by expulsion without refund if the behaviour continues
-- immediate expulsion from the conference without refund
-- forwarding of the harasser's details to partner institutions and events
+- A warning to stop the behaviour followed by expulsion without refund if the behaviour continues
+- Immediate expulsion from the conference without refund
+- Forwarding of the harasser's details to partner institutions and events
  
 In addition, if the harassing behaviour is part of a sponsor's display or a talk the display will be removed or the talk stopped without refund of the sponsorship.
 
