@@ -1,12 +1,10 @@
 main:
     - title: "Program"
       url: /program/
-    - title: "Registration"
+    - title: "Registration and abstract submission"
       url: /register/
-    - title: "Key dates"
-      url: /dates/
-    - title: "Accommodation"
-      url: /accom/
+    - title: "Conference information"
+      url: /info/
     - title: "Code of conduct"
       url: /conduct/
     - title: "Contact"
