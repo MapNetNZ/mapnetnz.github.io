@@ -17,6 +17,10 @@ author:
   name             : "MapNet 2018"
   avatar           : "/assets/mapnet.jpg"
 
+# Hide feed
+atom_feed:
+  path: "http://mapnetnz.github.io/"
+
 # Reading Files
 include:
   - .htaccess
