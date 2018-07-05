@@ -2,6 +2,12 @@
 permalink: /program/
 ---
 
+<span></span>
+
+# Program
+
+A detailed program will be released closer to the date.
+
 Sesson topics will include:
 - Methodology advances in statistical genetics
 - Epigenetics 

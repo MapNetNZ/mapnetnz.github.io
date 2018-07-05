@@ -118,4 +118,9 @@ defaults:
       author_profile: true
       layout: single
       author: MapNet 2018
-      
+      excerpt: "Dunedin, 20–21 November."
+      header:
+        overlay_image: "/assets/banner.png"
+        overlay_filter: "0"
+        cta_label: "Register now"
+        cta_url: "/register/"

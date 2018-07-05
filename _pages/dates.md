@@ -1,7 +1,10 @@
 ---
-title: "Key dates"
 permalink: /dates/
 ---
+
+<span></span>
+
+# Key dates
 
 | Deadline for abstract submission | **28 September, 2018** |
 | Registration closes | **6 November, 2018** |
