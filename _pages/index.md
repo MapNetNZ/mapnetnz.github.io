@@ -1,6 +1,12 @@
 ---
 permalink: /
 Title: "Welcome to the 2018 MapNet workshop"
+excerpt: "Dunedin, 20–21 November."
+header:
+    overlay_image: "/assets/banner.png"
+    overlay_filter: "0"
+    cta_label: "Register now"
+    cta_url: "/register/"
 ---
 
 <span></span>
