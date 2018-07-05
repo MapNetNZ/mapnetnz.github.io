@@ -5,7 +5,7 @@ main:
       url: /register/
     - title: "Conference information"
       url: /info/
-    - title: "Code of conduct"
-      url: /conduct/
     - title: "Contact"
       url: /contact/
+    - title: "Code of conduct"
+      url: /conduct/
