@@ -6,9 +6,9 @@ permalink: /contact/
 
 # Contact us
 
-In the first instance, contact the MapNet organisers via email at [the MapNet organisers](mailto:foo@bar.com).
+You can email the MapNet 2018 organisers at [mapnet2018@otago.ac.nz](mailto:mapnet2018@otago.ac.nz). This is the preferred method of contact.
 
-You can also contact one of the organisers directly:
+If necessary, you can also contact one of the organisers directly:
 - [Shannon Clark](mailto:Shannon.Clarke@agresearch.co.nz)
 - [Rob Elshire](mailto:Rob@elshiregroup.co.nz)
 - [Tony Merriman](mailto:tony.merriman@otago.ac.nz)
@@ -17,3 +17,4 @@ You can also contact one of the organisers directly:
 - [Angela Hendry](mailto:angela.hendry@otago.ac.nz)
 - [Tom Harrop](mailto:tom.harrop@otago.ac.nz)
 - [Andrew Hess](mailto:andrew.hess@agresearch.co.nz)
+
