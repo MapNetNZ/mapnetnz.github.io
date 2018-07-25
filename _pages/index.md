@@ -25,17 +25,13 @@ MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago fro
 
 *[Note about the GBS workshop]*
 
-## Annual Genomics Aotearoa symposium
-
-*[Link to the annual GA symposium]*
-
 ## Sponsors
 
 ![By Jared and Corin (Jersey cow), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Jersey_cow%2C_close-up.jpg)
 
 ---
 
-MapNet is a group of New Zealand-based molecular and quantitative geneticists from organisations involved in research related to genomics. Organisations represented include Universities (Auckland, Canterbury, Massey, Otago, Unitec, Victoria), CRIs (AgResearch, Environmental Science and Research, Landcare Research, NIWA, Plant & Food Research, Scion) and private entities (AbacusBio, The Elshire Group, Livestock Improvement Corporation). They encompass New Zealand's health, primary production, and conservation genetics sectors. MapNet aims to coordinate scientists from different organisations using common technologies and analytical platforms, to foster the development of multidisciplinary and cross-sector research projects, and to facilitate knowledge exchange between researchers.
+MapNet is a group of New Zealand-based molecular and quantitative geneticists from organisations involved in research related to genomics. Organisations represented include Universities (Auckland, Canterbury, Massey, Otago, Unitec, Victoria), Crown Research Institutes (AgResearch, Environmental Science and Research, Landcare Research, NIWA, Plant & Food Research, Scion) and private entities (AbacusBio, The Elshire Group, Livestock Improvement Corporation). They encompass New Zealand's health, primary production, and conservation genetics sectors. MapNet aims to coordinate scientists from different organisations using common technologies and analytical platforms, to foster the development of multidisciplinary and cross-sector research projects, and to facilitate knowledge exchange between researchers.
 
 We look forward to seeing you there.
 
