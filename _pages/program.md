@@ -13,4 +13,4 @@ Sesson topics include:
 - Epigenetics 
 - Primary sector empirical
 - Ecosystem genomics
-- Indigenous health, archaeological genetics (in conjunction with the annual Genomics Aotearoa symposium **link**)
+- Indigenous health, archaeological genetics (in conjunction with the annual Genomics Aotearoa symposium)

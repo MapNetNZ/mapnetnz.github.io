@@ -27,9 +27,6 @@ Dunedin airport (DUD) is about 30 km out of town. Taxis from the airport cost $8
 
 ## Accommodation
 
-- There are several motels near Otago University and hotels in the centre of town.
-- [St. Margaret's College](https://stmargarets.college/) has single rooms with shared facilities available from 19–23 November for $85 per night. These can be booked directly through St. Margaret's [here](https://stmargarets.college/conference/accommodation/request/).
+- There are motels near Otago University and hotels in the centre of town. The University is about 20 minutes' walk from the Octagon, and there are several bus lines that run along George Street.
 - Homestays?
-
-
-*Links to suggested accommodation providers*
+- [St. Margaret's College](https://stmargarets.college/conference/accommodation){:target="_blank",rel="noopener"} has single rooms with shared facilities available from 19–23 November for $85 per night, including breakfast. These can be booked directly with St. Margaret's [here](https://stmargarets.college/conference/accommodation/request/){:target="_blank",rel="noopener"}.
