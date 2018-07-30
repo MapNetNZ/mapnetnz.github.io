@@ -27,7 +27,9 @@ MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago fro
 
 ## Sponsors
 
+ <!-- Do not display this at the moment
 ![By Jared and Corin (Jersey cow), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Jersey_cow%2C_close-up.jpg)
+ --> 
 
 ---
 
