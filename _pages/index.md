@@ -23,9 +23,7 @@ MapNet 2018 themes include epigenetics, indigenous health genomics, methodology 
 
 ## GBS workshop
 
-**Genetic analysis using sequencing data**
-
-The workshop will run the day before MapNet, and is organised and sponsored by AgResearch through the MBIE programme *Genomics for Production & Security in a Biological Economy*. [Click here for more information](/mapnetnz.github.io/program/#gbs-workshop).
+AgResearch is running and sponsoring a workshop on **genetic analysis using sequencing data** the day before MapNet, through the MBIE programme *Genomics for Production & Security in a Biological Economy*. [Click here for more information](/mapnetnz.github.io/program/#gbs-workshop).
 
 ## Sponsors
 
