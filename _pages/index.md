@@ -25,7 +25,7 @@ MapNet 2018 themes include epigenetics, indigenous health genomics, methodology 
 
 Monday, November 19, from 1pm
 
-High-throughput sequencing is increasingly used for the development and implementation of genomic tools delivering outcomes for breeding, genetic diversity studies (*e.g.* inbreeding and co-ancestry) and population and conservation genetics. One of the bottlenecks using (low depth) sequencing data is appropriate data analysis tools. This workshop aims to present research using sequencing data and data analysis for different applications, including genetic diversity, breeding values, GWAS, linkage mapping, estimation of linkage disequilibrium, effective population size $N~e~$, etc.
+High-throughput sequencing is increasingly used for the development and implementation of genomic tools delivering outcomes for breeding, genetic diversity studies (*e.g.* inbreeding and co-ancestry) and population and conservation genetics. One of the bottlenecks using (low depth) sequencing data is appropriate data analysis tools. This workshop aims to present research using sequencing data and data analysis for different applications, including genetic diversity, breeding values, GWAS, linkage mapping, estimation of linkage disequilibrium, effective population size N<sub>e</sub>, etc.
 
 The workshop will run the day before MapNet, and is organised and sponsored by AgResearch through the MBIE programme 'Genomics for Production & Security in a Biological Economy'. 
 

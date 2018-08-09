@@ -18,7 +18,10 @@ header:
 ## Abstracts
 
 - The deadline for abstract submission is 28 September, 2018.
-- After paying for your registration, you can email your abstract to [mapnet2018@otago.ac.nz](mailto:mapnet2018@otago.ac.nz). Please note that we can't accept abstracts without registration.
+- Please note that we can't accept abstracts without registration.
+- After paying for your registration, you can email your abstract to [mapnet2018@otago.ac.nz](mailto:mapnet2018@otago.ac.nz).
+- You can also send abstracts for the GBS workshop to [mapnet2018@otago.ac.nz](mailto:mapnet2018@otago.ac.nz) after you've registered.
+- **Please send each abstract in a separate file**.
 
 ---
 
