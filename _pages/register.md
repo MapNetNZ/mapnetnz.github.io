@@ -19,8 +19,8 @@ header:
 
 - The deadline for abstract submission is 28 September, 2018.
 - Please note that we can't accept abstracts without registration.
-- After paying for your registration, you can email your abstract to [mapnet2018@otago.ac.nz](mailto:mapnet2018@otago.ac.nz).
-- You can also send abstracts for the GBS workshop to [mapnet2018@otago.ac.nz](mailto:mapnet2018@otago.ac.nz) after you've registered.
+- After paying for your registration, you can email your abstract to [mapnet18@otago.ac.nz](mailto:mapnet18@otago.ac.nz).
+- You can also send abstracts for the GBS workshop to [mapnet18@otago.ac.nz](mailto:mapnet18@otago.ac.nz) after you've registered.
 - **Please send each abstract in a separate file**.
 
 ---
@@ -29,6 +29,6 @@ Department of Biochemistry
 PO Box 56  
 Dunedin 9054  
 New Zealand  
-<i class="fa fa-envelope"></i> [mapnet2018@otago.ac.nz](mailto:mapnet2018@otago.ac.nz)  
+<i class="fa fa-envelope"></i> [mapnet18@otago.ac.nz](mailto:mapnet18@otago.ac.nz)  
 <i class="fa fa-phone"></i> +64 3 479 7863  
 <i class="fa fa-fax"></i> +64 3 479 7866
