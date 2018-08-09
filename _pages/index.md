@@ -31,13 +31,15 @@ The workshop will run the day before MapNet, and is organised and sponsored by A
 
 ## Sponsors
 
-Logos here!
+![GA-Wide-Colour-WhiteText-1600px.png](assets/GA-Wide-Colour-WhiteText-1600px.png)
 
  <!-- Do not display this at the moment
 ![By Jared and Corin (Jersey cow), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Jersey_cow%2C_close-up.jpg)
  --> 
 
 ---
+
+### About MapNet 
 
 MapNet is a group of New Zealand-based molecular and quantitative geneticists from organisations involved in research related to genomics. Organisations represented include Universities (Auckland, Canterbury, Massey, Otago, Unitec, Victoria), Crown Research Institutes (AgResearch, Environmental Science and Research, Landcare Research, NIWA, Plant & Food Research, Scion) and private entities (AbacusBio, The Elshire Group, Livestock Improvement Corporation). They encompass New Zealand's health, primary production, and conservation genetics sectors. MapNet aims to coordinate scientists from different organisations using common technologies and analytical platforms, to foster the development of multidisciplinary and cross-sector research projects, and to facilitate knowledge exchange between researchers.
 
