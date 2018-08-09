@@ -21,19 +21,17 @@ MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago fro
 
 MapNet 2018 themes include epigenetics, indigenous health genomics, methodology advances and ecosystem and primary sector genomics. The [program](/mapnetnz.github.io/program/) will be updated closer to the date.
 
-## GBS workshop: Genetic analysis using sequencing data
+## GBS workshop
 
-Monday, November 19, from 1pm
+**Genetic analysis using sequencing data**
 
-High-throughput sequencing is increasingly used for the development and implementation of genomic tools delivering outcomes for breeding, genetic diversity studies (*e.g.* inbreeding and co-ancestry) and population and conservation genetics. One of the bottlenecks using (low depth) sequencing data is appropriate data analysis tools. This workshop aims to present research using sequencing data and data analysis for different applications, including genetic diversity, breeding values, GWAS, linkage mapping, estimation of linkage disequilibrium, effective population size N<sub>e</sub>, etc.
-
-The workshop will run the day before MapNet, and is organised and sponsored by AgResearch through the MBIE programme 'Genomics for Production & Security in a Biological Economy'. 
+The workshop will run the day before MapNet, and is organised and sponsored by AgResearch through the MBIE programme *Genomics for Production & Security in a Biological Economy*. [Click here for more information](/mapnetnz.github.io/program/#gbs-workshop).
 
 ## Sponsors
 
-![GA-Wide-Colour-WhiteText-1600px.png](assets/GA-Wide-Colour-WhiteText-1600px.png)
+[![Genomics Aotearoa](assets/GA-Wide-Colour-WhiteText-1600px.png)](https://www.otago.ac.nz/biochemistry/research/themes/otago673820.html){:target="_blank",rel="noopener"}
 
- <!-- Do not display this at the moment
+<!-- Do not display this at the moment
 ![By Jared and Corin (Jersey cow), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Jersey_cow%2C_close-up.jpg)
  --> 
 
