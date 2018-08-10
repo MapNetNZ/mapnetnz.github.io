@@ -1,0 +1,9 @@
+main:
+    - title: "Program"
+      url: /program/
+    - title: "Registration and abstract submission"
+      url: /register/
+    - title: "Conference information"
+      url: /info/
+    - title: "Contact"
+      url: /contact/
