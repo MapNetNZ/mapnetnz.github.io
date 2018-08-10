@@ -15,15 +15,15 @@ header:
 
 MapNet 2018 will be held in Dunedin, New Zealand, at the University of Otago from November 20–21.
 
-**[Click here to register](/mapnetnz.github.io/register/)**.
+**[Click here to register](/register/)**.
 
 ## MapNet 2018
 
-MapNet 2018 themes include epigenetics, indigenous health genomics, methodology advances and ecosystem and primary sector genomics. The [program](/mapnetnz.github.io/program/) will be updated closer to the date.
+MapNet 2018 themes include epigenetics, indigenous health genomics, methodology advances and ecosystem and primary sector genomics. The [program](/program/) will be updated closer to the date.
 
 ## GBS workshop
 
-AgResearch is running and sponsoring a workshop on **genetic analysis using sequencing data** the day before MapNet, through the MBIE programme *Genomics for Production & Security in a Biological Economy*. [Click here for more information](/mapnetnz.github.io/program/#gbs-workshop).
+AgResearch is running and sponsoring a workshop on **genetic analysis using sequencing data** the day before MapNet, through the MBIE programme *Genomics for Production & Security in a Biological Economy*. [Click here for more information](/program/#gbs-workshop).
 
 ## Sponsors
 
