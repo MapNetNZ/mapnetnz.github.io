@@ -27,7 +27,7 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 
 ## Sponsors
 
-[![Genomics Aotearoa](assets/GA-Wide-Colour-WhiteText-1600px.png)](https://www.otago.ac.nz/biochemistry/research/themes/otago673820.html){:target="_blank",rel="noopener"}
+[![Genomics Aotearoa](assets/GA-Wide-Colour-1200px.jpg)](https://www.otago.ac.nz/biochemistry/research/themes/otago673820.html){:target="_blank",rel="noopener"}
 
 <!-- Do not display this at the moment
 ![By Jared and Corin (Jersey cow), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Jersey_cow%2C_close-up.jpg)
