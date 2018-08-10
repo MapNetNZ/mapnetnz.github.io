@@ -1,0 +1,126 @@
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dirt"
+
+# Site settings
+locale: "en-NZ"
+title_separator: "-"
+title: "MapNet 2018"
+description: "MapNet workshop 2018, Dunedin"
+url                      : "http://tomharrop.io"
+baseurl                  : "/"        
+repository               : "MapNetNZ/mapnetnz.github.io"
+teaser                   : "/assets/mapnet.jpg"
+words_per_minute         : 200
+
+# Site Author
+author:
+  name             : "MapNet 2018"
+  avatar           : "/assets/mapnet.jpg"
+
+# Hide feed
+atom_feed:
+  path: "http://mapnetnz.github.io/"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: "Pacific/Auckland"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      author_profile: true
+      layout: single
+      author: MapNet 2018
+      excerpt: "Dunedin, 20–21 November."
+      header:
+        overlay_image: "/assets/banner.png"
+        overlay_filter: "0"
+        cta_label: "Register now"
+        cta_url: "/register/"
