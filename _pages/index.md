@@ -42,7 +42,7 @@ MapNet is a group of New Zealand-based molecular and quantitative geneticists fr
 We look forward to seeing you there.
 
 The organising committee:
-- [Shannon Clark](mailto:Shannon.Clarke@agresearch.co.nz)
+- [Shannon Clarke](mailto:Shannon.Clarke@agresearch.co.nz)
 - [Rob Elshire](mailto:Rob@elshiregroup.co.nz)
 - [Tony Merriman](mailto:tony.merriman@otago.ac.nz)
 - [Wenhua Wei](mailto:wenhua.wei@otago.ac.nz)
