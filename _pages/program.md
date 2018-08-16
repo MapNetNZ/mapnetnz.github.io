@@ -15,6 +15,8 @@ Sesson topics include:
 - Ecosystem genomics
 - Indigenous health, archaeological genetics (in conjunction with the annual Genomics Aotearoa symposium)
 
+The conference dinner will be at a local restaurant on 20 November.
+
 ## GBS workshop
 
 **Genetic analysis using sequencing data**
