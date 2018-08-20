@@ -13,6 +13,7 @@ header:
 - Registrations close on 6 November, 2018.
 - MapNet 2018 will be held in Dunedin, New Zealand on 20–21 November, 2018, at the University of Otago.
 - Cancellation of registration up until 6 November will result in a full refund except for an administration fee of $20. After 6 November, no refund will be applied. Refunds will only be directed back to those accounts from which the initial payment was made.
+- If you want to attend the GBS workshop but not MapNet 2018, use the normal registration link and don't select a conference registration.
 - **Register here**: [https://www.otago.ac.nz/conferences/mapnet2018/](https://www.otago.ac.nz/conferences/mapnet2018/)
 
 ## Abstracts
