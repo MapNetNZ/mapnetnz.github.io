@@ -27,6 +27,23 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 
 ## Sponsors
 
+<!-- Do not display this at the moment
+- Illumina
+-->
+
+[![dnature](assets/DNature_cropped.png)](https://www.dnature.co.nz/){:target="_blank",rel="noopener"}
+
+<span></span>
+
+<!-- Do not display this at the moment
+- Abacus
+- Genetics Otago
+-->
+
+[![AgResearch](assets/agresearch.jpg)](https://www.agresearch.co.nz/){:target="_blank",rel="noopener"}
+
+<span></span>
+
 [![Genomics Aotearoa](assets/GA-Wide-Colour-1200px.jpg)](https://www.otago.ac.nz/biochemistry/research/themes/otago673820.html){:target="_blank",rel="noopener"}
 
 <span></span>
