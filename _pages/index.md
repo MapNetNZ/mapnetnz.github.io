@@ -35,6 +35,10 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 
 <span></span>
 
+[![AbacusBio](assets/abacus.jpg)](http://www.abacusbio.com/){:target="_blank",rel="noopener"}
+
+<span></span>
+
 <!-- Do not display this at the moment
 - Abacus
 - Genetics Otago
@@ -49,10 +53,6 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 <span></span>
 
 [![CustomScience](assets/CustomSci_Logo_CS4.png)](http://customscience.co.nz/){:target="_blank",rel="noopener"}
-
-<!-- Do not display this at the moment
-![By Jared and Corin (Jersey cow), [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0)](https://upload.wikimedia.org/wikipedia/commons/f/ff/Jersey_cow%2C_close-up.jpg)
- --> 
 
 ---
 
