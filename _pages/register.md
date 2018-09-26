@@ -20,6 +20,7 @@ header:
 
 - The deadline for abstract submission is 28 September, 2018.
 - Please note that we can't accept abstracts without registration.
+- When you submit your abstract, please let us know which of the [sessions](/program/#program) you would like to present in, and whether you prefer a full talk or a lightning talk.
 - After paying for your registration, you can email your abstract to [mapnet18@otago.ac.nz](mailto:mapnet18@otago.ac.nz).
 - You can also send abstracts for the pre-conference workshop to [mapnet18@otago.ac.nz](mailto:mapnet18@otago.ac.nz) after you've registered.
 - **Please send each abstract in a separate file**.
