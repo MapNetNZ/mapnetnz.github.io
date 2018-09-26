@@ -15,6 +15,7 @@ If necessary, you can also contact one of the organisers directly:
 - [Wenhua Wei](mailto:wenhua.wei@otago.ac.nz)
 - [Phil Wilcox](mailto:phillip.wilcox@otago.ac.nz)
 - [Angela Hendry](mailto:angela.hendry@otago.ac.nz)
+- [Matt Bixley](mailto:matt.bixley@otago.ac.nz)
 - [Tom Harrop](mailto:tom.harrop@otago.ac.nz)
 - [Andrew Hess](mailto:andrew.hess@agresearch.co.nz)
 
