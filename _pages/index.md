@@ -27,11 +27,11 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 
 ## Sponsors
 
-<!-- Do not display this at the moment
-- Illumina
--->
-
 [![dnature](assets/DNature_cropped.png)](https://www.dnature.co.nz/){:target="_blank",rel="noopener"}
+
+<span></span>
+
+[![Illumina](assets/ILLUMINA_LOGO_CMYK_new.jpg)](http://www.illumina.com/){:target="_blank",rel="noopener"}
 
 <span></span>
 
