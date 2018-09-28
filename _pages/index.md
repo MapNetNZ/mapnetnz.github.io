@@ -40,7 +40,6 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 <span></span>
 
 <!-- Do not display this at the moment
-- Abacus
 - Genetics Otago
 -->
 
