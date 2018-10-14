@@ -39,11 +39,11 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 
 <span></span>
 
-<!-- Do not display this at the moment
-- Genetics Otago
--->
-
 [![AgResearch](assets/agresearch.jpg)](https://www.agresearch.co.nz/){:target="_blank",rel="noopener"}
+
+<span></span>
+
+[![Genetics Otago](assets/GO_logo.jpg)](https://www.otago.ac.nz/genetics/index.html){:target="_blank",rel="noopener"}
 
 <span></span>
 
