@@ -47,7 +47,7 @@ AgResearch is running and sponsoring a workshop on **genetic analysis using sequ
 
 <span></span>
 
-[![Genomics Aotearoa](assets/GA-Wide-Colour-1200px.jpg)](https://www.otago.ac.nz/biochemistry/research/themes/otago673820.html){:target="_blank",rel="noopener"}
+[![Genomics Aotearoa](assets/GA-Wide-Colour-1200px.jpg)](https://www.genomics-aotearoa.org.nz){:target="_blank",rel="noopener"}
 
 <span></span>
 
