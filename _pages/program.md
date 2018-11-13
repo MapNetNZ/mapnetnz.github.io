@@ -6,7 +6,7 @@ permalink: /program/
 
 # Program
 
-[**Click here for the conference schedule**](assets/schedule.pdf).
+[**Click here for the conference schedule**](/assets/schedule.pdf).
 
 Sesson topics include:
 - Methodology advances in statistical genetics
