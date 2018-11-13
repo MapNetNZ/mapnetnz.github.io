@@ -6,16 +6,14 @@ permalink: /program/
 
 # Program
 
-We'll update this page with a detailed program closer to the meeting.
+[**Click here for the conference schedule**](assets/schedule.pdf).
 
 Sesson topics include:
 - Methodology advances in statistical genetics
-- Epigenetics 
+- Epigenetics and functional genomics
 - Primary sector empirical
 - Ecosystem genomics
 - Indigenous health, archaeological genetics (in conjunction with the annual Genomics Aotearoa symposium)
-
-There will also be lightning talks for each session.
 
 The conference dinner will be at a local restaurant on 20 November.
 
