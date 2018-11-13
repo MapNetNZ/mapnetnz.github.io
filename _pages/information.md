@@ -1,5 +1,8 @@
 ---
 permalink: /info/
+header:
+    cta_label: False
+    cta_url: False
 ---
 
 <span></span>

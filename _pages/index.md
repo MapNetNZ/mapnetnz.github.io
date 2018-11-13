@@ -5,8 +5,8 @@ excerpt: "Dunedin, 20–21 November."
 header:
     overlay_image: "/assets/banner.png"
     overlay_filter: "0"
-    cta_label: "Register now"
-    cta_url: "/register/"
+    cta_label: False
+    cta_url: False
 ---
 
 <span></span>

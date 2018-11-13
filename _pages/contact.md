@@ -1,5 +1,8 @@
 ---
 permalink: /contact/
+header:
+    cta_label: False
+    cta_url: False
 ---
 
 <span></span>
